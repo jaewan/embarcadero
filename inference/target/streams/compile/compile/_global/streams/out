@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/home/jae/kafka_ml/inference/src/main/scala/com/aagmon/demos/Classifier.scala:37:46: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : java.nio.FloatBuffer[0m
+[0m[[0m[31merror[0m] [0m[0m required: Seq[Float][0m
+[0m[[0m[31merror[0m] [0m[0m    val xgbInput = getInputVector(shm_buffer.asFloatBuffer)[0m
+[0m[[0m[31merror[0m] [0m[0m                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

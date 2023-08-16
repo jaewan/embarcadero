@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+0	.bsp/sbt.json	/^{"name":"sbt","version":"1.6.2","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/home\/j/;"	s	array:argv
+0	.bsp/sbt.json	/^{"name":"sbt","version":"1.6.2","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/home\/j/;"	s	array:languages
+1	.bsp/sbt.json	/^{"name":"sbt","version":"1.6.2","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/home\/j/;"	s	array:argv
+2	.bsp/sbt.json	/^{"name":"sbt","version":"1.6.2","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/home\/j/;"	s	array:argv
+3	.bsp/sbt.json	/^{"name":"sbt","version":"1.6.2","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/home\/j/;"	s	array:argv
+4	.bsp/sbt.json	/^{"name":"sbt","version":"1.6.2","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/home\/j/;"	s	array:argv
+5	.bsp/sbt.json	/^{"name":"sbt","version":"1.6.2","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/home\/j/;"	s	array:argv
+6	.bsp/sbt.json	/^{"name":"sbt","version":"1.6.2","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/home\/j/;"	s	array:argv
+7	.bsp/sbt.json	/^{"name":"sbt","version":"1.6.2","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/home\/j/;"	s	array:argv
+PredictRequest	src/main/protobuf/predict.proto	/^message PredictRequest{$/;"	m
+argv	.bsp/sbt.json	/^{"name":"sbt","version":"1.6.2","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/home\/j/;"	a
+bspVersion	.bsp/sbt.json	/^{"name":"sbt","version":"1.6.2","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/home\/j/;"	s
+com	src/main/protobuf/predict.proto	/^package com.aagmon.demos;$/;"	p
+featuresVector	src/main/protobuf/predict.proto	/^  repeated float featuresVector = 4;$/;"	f
+languages	.bsp/sbt.json	/^{"name":"sbt","version":"1.6.2","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/home\/j/;"	a
+name	.bsp/sbt.json	/^{"name":"sbt","version":"1.6.2","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/home\/j/;"	s
+sbt.version	project/build.properties	/^sbt.version = 1.6.2$/;"	k
+version	.bsp/sbt.json	/^{"name":"sbt","version":"1.6.2","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["\/home\/j/;"	s
